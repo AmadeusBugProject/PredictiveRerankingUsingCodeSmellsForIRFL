@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+
+<ruleset name="All Java Rules"
+    xmlns="http://pmd.sourceforge.net/ruleset/2.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://pmd.sourceforge.net/ruleset/2.0.0 https://pmd.sourceforge.io/ruleset_2_0_0.xsd">
+
+    <description>
+        Java Overkill 9000
+    </description>
+
+    <rule ref="category/java/bestpractices.xml"/>
+<!--    <rule ref="category/java/codestyle.xml"/>-->
+    <rule ref="category/java/design.xml"/>
+<!--    <rule ref="category/java/documentation.xml"/>-->
+    <rule ref="category/java/errorprone.xml"/>
+    <rule ref="category/java/multithreading.xml"/>
+    <rule ref="category/java/performance.xml"/>
+    <rule ref="category/java/security.xml"/>
+
+<!--    <rule ref="../PMD-jPinpoint-rules-1.7.0/rulesets/java/jpinpoint-rules.xml"/>-->
+    <rule ref="../PMD-jPinpoint-rules-1.7.0/src/main/resources/category/java/common.xml"/>
+    <rule ref="../PMD-jPinpoint-rules-1.7.0/src/main/resources/category/java/common_std.xml"/>
+    <rule ref="../PMD-jPinpoint-rules-1.7.0/src/main/resources/category/java/concurrent.xml"/>
+    <rule ref="../PMD-jPinpoint-rules-1.7.0/src/main/resources/category/java/spring.xml"/>
+    <rule ref="../PMD-jPinpoint-rules-1.7.0/src/main/resources/category/java/sql.xml"/>
+
+
+</ruleset>

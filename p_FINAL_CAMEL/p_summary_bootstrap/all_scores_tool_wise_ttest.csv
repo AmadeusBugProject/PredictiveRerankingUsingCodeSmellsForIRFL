@@ -1,0 +1,67 @@
+,test,stat,p,h0,x_label,y_label
+0,shapiro_stat,0.9650945067405701,0.6497678160667419,BLIA_ext - that the data was drawn from normal distribution,BLIA_ext,BLIA
+1,dagostino_stat,0.4232096407072825,0.8092844471246984,BLIA_ext - that the data was drawn from normal distribution,BLIA_ext,BLIA
+0,shapiro_stat,0.9479762315750122,0.3374127447605133,BLIA - that the data was drawn from normal distribution,BLIA_ext,BLIA
+1,dagostino_stat,1.3017621879323633,0.5215860079565455,BLIA - that the data was drawn from normal distribution,BLIA_ext,BLIA
+0,t_test_ind_one_sided,0.21302127200539966,0.4162245429733244,BLIA_ext is not greater than BLIA,BLIA_ext,BLIA
+0,welch_t_test_ind_one_sided,0.21302127200539966,0.41622749017495725,BLIA_ext is not greater than BLIA,BLIA_ext,BLIA
+0,t_test_rel_one_sided,1.1324981476913483,0.135757620359849,BLIA_ext is not greater than BLIA,BLIA_ext,BLIA
+0,wilcoxon,95.0,0.08133665753597341,BLIA_ext is not greater than BLIA,BLIA_ext,BLIA
+0,x_min,0.3898636395334351,0.3898636395334351,x_min,BLIA_ext,BLIA
+0,y_min,0.3854388803603463,0.3854388803603463,y_min,BLIA_ext,BLIA
+0,x_var,0.001083378752602641,0.001083378752602641,x_var,BLIA_ext,BLIA
+0,y_var,0.0012516859253471615,0.0012516859253471615,y_var,BLIA_ext,BLIA
+0,x_std,0.03291471939121829,0.03291471939121829,x_std,BLIA_ext,BLIA
+0,y_std,0.03537917361029171,0.03537917361029171,y_std,BLIA_ext,BLIA
+0,shapiro_stat,0.9650945067405701,0.6497678160667419,BLIA_ext - that the data was drawn from normal distribution,,
+1,dagostino_stat,0.4232096407072825,0.8092844471246984,BLIA_ext - that the data was drawn from normal distribution,,
+0,shapiro_stat,0.9479762315750122,0.3374127447605133,BLIA - that the data was drawn from normal distribution,,
+1,dagostino_stat,1.3017621879323633,0.5215860079565455,BLIA - that the data was drawn from normal distribution,,
+0,t_test_two_sided,0.21302127200539966,0.8324490859466488,BLIA_ext is not different BLIA,,
+0,welch_t_test_two_sided,0.21302127200539966,0.8324549803499145,BLIA_ext is not different BLIA,,
+0,x_min,0.3898636395334351,0.3898636395334351,x_min,,
+0,y_min,0.3854388803603463,0.3854388803603463,y_min,,
+0,shapiro_stat,0.9042112231254578,0.0494939424097538,BRTracer_ext - that the data was drawn from normal distribution,BRTracer_ext,BRTracer
+1,dagostino_stat,7.103085830942136,0.028680354136506752,BRTracer_ext - that the data was drawn from normal distribution,BRTracer_ext,BRTracer
+0,shapiro_stat,0.8788158893585205,0.01684698462486267,BRTracer - that the data was drawn from normal distribution,BRTracer_ext,BRTracer
+1,dagostino_stat,9.89785991616936,0.007090992530171496,BRTracer - that the data was drawn from normal distribution,BRTracer_ext,BRTracer
+0,t_test_ind_one_sided,-0.22560863509899898,0.5886425821782528,BRTracer_ext is not greater than BRTracer,BRTracer_ext,BRTracer
+0,welch_t_test_ind_one_sided,-0.22560863509899898,0.5886424614508978,BRTracer_ext is not greater than BRTracer,BRTracer_ext,BRTracer
+0,t_test_rel_one_sided,-2.200868788302371,0.9798447868206918,BRTracer_ext is not greater than BRTracer,BRTracer_ext,BRTracer
+0,wilcoxon,27.0,0.9945781509724041,BRTracer_ext is not greater than BRTracer,BRTracer_ext,BRTracer
+0,x_min,0.360881057430825,0.360881057430825,x_min,BRTracer_ext,BRTracer
+0,y_min,0.3604069506218919,0.3604069506218919,y_min,BRTracer_ext,BRTracer
+0,x_var,0.0024064236316670594,0.0024064236316670594,x_var,BRTracer_ext,BRTracer
+0,y_var,0.002339235970048297,0.002339235970048297,y_var,BRTracer_ext,BRTracer
+0,x_std,0.04905531196177494,0.04905531196177494,x_std,BRTracer_ext,BRTracer
+0,y_std,0.04836564865737145,0.04836564865737145,y_std,BRTracer_ext,BRTracer
+0,shapiro_stat,0.9042112231254578,0.0494939424097538,BRTracer_ext - that the data was drawn from normal distribution,,
+1,dagostino_stat,7.103085830942136,0.028680354136506752,BRTracer_ext - that the data was drawn from normal distribution,,
+0,shapiro_stat,0.8788158893585205,0.01684698462486267,BRTracer - that the data was drawn from normal distribution,,
+1,dagostino_stat,9.89785991616936,0.007090992530171496,BRTracer - that the data was drawn from normal distribution,,
+0,t_test_two_sided,-0.22560863509899898,0.8227148356434945,BRTracer_ext is not different BRTracer,,
+0,welch_t_test_two_sided,-0.22560863509899898,0.8227150770982045,BRTracer_ext is not different BRTracer,,
+0,x_min,0.360881057430825,0.360881057430825,x_min,,
+0,y_min,0.3604069506218919,0.3604069506218919,y_min,,
+0,shapiro_stat,0.975307822227478,0.8604431748390198,BugLocator_ext - that the data was drawn from normal distribution,BugLocator_ext,BugLocator
+1,dagostino_stat,1.4217924633082448,0.49120376776163466,BugLocator_ext - that the data was drawn from normal distribution,BugLocator_ext,BugLocator
+0,shapiro_stat,0.9776424169540405,0.9001627564430237,BugLocator - that the data was drawn from normal distribution,BugLocator_ext,BugLocator
+1,dagostino_stat,1.3838183387731484,0.500619388912773,BugLocator - that the data was drawn from normal distribution,BugLocator_ext,BugLocator
+0,t_test_ind_one_sided,-0.15502365741291158,0.5611884072799864,BugLocator_ext is not greater than BugLocator,BugLocator_ext,BugLocator
+0,welch_t_test_ind_one_sided,-0.1550236574129116,0.5611883247892258,BugLocator_ext is not greater than BugLocator,BugLocator_ext,BugLocator
+0,t_test_rel_one_sided,-1.69154815219815,0.9464653890656132,BugLocator_ext is not greater than BugLocator,BugLocator_ext,BugLocator
+0,wilcoxon,58.0,0.9620742797851562,BugLocator_ext is not greater than BugLocator,BugLocator_ext,BugLocator
+0,x_min,0.3587982704346244,0.3587982704346244,x_min,BugLocator_ext,BugLocator
+0,y_min,0.35879927566610875,0.35879927566610875,y_min,BugLocator_ext,BugLocator
+0,x_var,0.001612362112401822,0.001612362112401822,x_var,BugLocator_ext,BugLocator
+0,y_var,0.001567195625306485,0.001567195625306485,y_var,BugLocator_ext,BugLocator
+0,x_std,0.040154229072437965,0.040154229072437965,x_std,BugLocator_ext,BugLocator
+0,y_std,0.03958782167922965,0.03958782167922965,y_std,BugLocator_ext,BugLocator
+0,shapiro_stat,0.975307822227478,0.8604431748390198,BugLocator_ext - that the data was drawn from normal distribution,,
+1,dagostino_stat,1.4217924633082448,0.49120376776163466,BugLocator_ext - that the data was drawn from normal distribution,,
+0,shapiro_stat,0.9776424169540405,0.9001627564430237,BugLocator - that the data was drawn from normal distribution,,
+1,dagostino_stat,1.3838183387731484,0.500619388912773,BugLocator - that the data was drawn from normal distribution,,
+0,t_test_two_sided,-0.15502365741291158,0.877623185440027,BugLocator_ext is not different BugLocator,,
+0,welch_t_test_two_sided,-0.1550236574129116,0.8776233504215484,BugLocator_ext is not different BugLocator,,
+0,x_min,0.3587982704346244,0.3587982704346244,x_min,,
+0,y_min,0.35879927566610875,0.35879927566610875,y_min,,
